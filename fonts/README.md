@@ -13,3 +13,11 @@ I rearranged and splitted the [WeatherIcons](https://github.com/erikflowers/weat
 ## WeatherIcons - SunMoonWind (7 Bit)
 ### Sizes 5pt - 40pt
 ![WeatherIcons-SunMoonWind](./WeatherIcons-SunMoonWind.png)
+
+## DejaVU - SunMoonWind (8 Bit)
+### Sizes 5pt - 36pt
+![DjaVu](./DejaVu.png)
+
+## Source Code Pro - SunMoonWind (7 Bit)
+### Sizes 5pt - 32pt
+![SourceCodePro](./SourceCodePro.png)
