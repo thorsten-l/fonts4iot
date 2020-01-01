@@ -14,7 +14,7 @@
 
 convert=./fontconvert
 inpath=../fonts/
-outpath=../include/
+outpath=../src/
 fonts=(WeatherIcons-Clouds WeatherIcons-CloudsNightDay WeatherIcons-SunMoonWind)
 sizes=(5 6 7 8 9 10 12 14 16 18 20 22 24 26 28 30 32 36 40 )
 
